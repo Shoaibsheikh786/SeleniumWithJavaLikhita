@@ -23,6 +23,7 @@ public class FindID {
 String btn=	driver.findElement(By.xpath("//button[starts-with(@name,'log')]")).getText();
 	
 		System.out.println(btn);
+		
 		//1.
 //		WebElement user=driver.findElement(By.id("email"));
 //		
