@@ -1,0 +1,1 @@
+{"uuid":"cc39b3d0-a956-4147-bc6b-1223585bfa80","name":"testNG.TestNgAnnotations.setUp","children":["1a04a41d-050f-4dc9-864a-d5941971d60f"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1728045289971,"stop":1728045294262}],"afters":[],"start":1728045289971,"stop":1728045294262}

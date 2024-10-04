@@ -1,0 +1,1 @@
+{"uuid":"2a21a195-6f2d-4703-b9a8-ee2a001860f0","name":"testNG.TestNg3.befMeth","children":["e3fb4cbd-86d3-4412-af6e-734890796019"],"description":"","befores":[{"name":"befMeth","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1728046966411,"stop":1728046966424}],"afters":[],"start":1728046966411,"stop":1728046966424}
