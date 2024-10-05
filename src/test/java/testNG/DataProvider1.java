@@ -40,4 +40,20 @@ public class DataProvider1 {
 		return data;
 				
 	}
+	
+	@DataProvider()
+	public String[][] userData2()
+	{
+		//you can get data from excle
+		
+		String data[][]= {
+				{"abcxxx","xxxxx"},
+				{"udld","pass2"},
+				{"user3","pass3"},
+				
+		};
+		
+		return data;
+				
+	}
 }
