@@ -42,11 +42,7 @@ public class WinHin {
      Thread.sleep(2000);
      
      driver.switchTo().window(win1);
-     
-     
-     
-     
-     
+
 		
 	}
 

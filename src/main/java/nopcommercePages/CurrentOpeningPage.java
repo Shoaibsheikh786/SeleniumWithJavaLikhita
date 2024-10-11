@@ -22,7 +22,7 @@ public class CurrentOpeningPage {
 		serach.sendKeys(val);
 	}
 
-@FindBy(xpath = "//div[@class='col-md-12 col-6']//div[1]//div[1]//div[1]//div[3]//button[1]")
+  @FindBy(xpath = "//div[@class='col-md-12 col-6']//div[1]//div[1]//div[1]//div[3]//button[1]")
 	WebElement details1;
 
 	public void clickOnDetails1() {

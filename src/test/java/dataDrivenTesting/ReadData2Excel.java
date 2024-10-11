@@ -13,7 +13,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class ReadData2Excel {
 
-	public static void main(String[] args) throws EncryptedDocumentException, IOException {
+	public static void main(String[] args) throws EncryptedDocumentException, IOException  {
     
 		File file = new File("./UserFile.xlsx"); // location of file
 		FileInputStream fis = new FileInputStream(file); // connection
